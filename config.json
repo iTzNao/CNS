@@ -1,0 +1,20 @@
+{
+  "bot_run": true,
+
+  "test_mode": false,
+  "test_token": "",
+  "test_client_id": 0,
+  "test_guild_id": 0,
+
+  "token": "",
+  "client_secret": "",
+  "client_id": 0,
+
+  "statuses": [
+    "1",
+    "2"
+  ],
+  "color": "#000000",
+  "footer_icon": "",
+  "footer_text": ""
+}
